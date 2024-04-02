@@ -1,3 +1,1 @@
-web/dist/* linguist-vendored
-web/template/* linguist-vendored
-web/vendor/* linguist-vendored
+* linguist-vendored*.js linguist-vendored=fals
