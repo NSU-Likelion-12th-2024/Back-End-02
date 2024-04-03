@@ -1,10 +1,11 @@
 package Homework;
 
+import java.util.Scanner;
 import java.util.Random;
 import java.util.Scanner;
+public class Week1 {
 
-public class Week01_Ex01 {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         /*
         System.out.println("구구단을 실행할 숫자를 입력하세요:     ");
         Scanner sc = new Scanner(System.in);
@@ -16,20 +17,20 @@ public class Week01_Ex01 {
 
          */
 
-        String Ex = "Q. 다음 중 프로그래밍 언어가 아닌 것은?\n" + "1. 자바\n" + "2. 파이썬\n" + "3. C언어\n" + "4. 멋쟁이사자처럼\n";
-        Scanner sc = new Scanner(System.in);
-        int my = 0;
-        int answer = 4;
-        String result = "";
-        do{
-            System.out.println(Ex);
-            my = sc.nextInt();
-            result = my == answer ? "정답" : my >= 1 && my < 4 ? "오답" : "다시";
-            System.out.println(result);
-        }while (my != answer);
+            String Ex = "Q. 다음 중 프로그래밍 언어가 아닌 것은?\n" + "1. 자바\n" + "2. 파이썬\n" + "3. C언어\n" + "4. 멋쟁이사자처럼\n";
+            Scanner sc = new Scanner(System.in);
+            int my = 0;
+            int answer = 4;
+            String result = "";
+            do{
+                System.out.println(Ex);
+                my = sc.nextInt();
+                result = my == answer ? "정답" : my >= 1 && my < 4 ? "오답" : "다시";
+                System.out.println(result);
+            }while (my != answer);
+
 
     }
-}
 
 // =============================================================================================
 //백엔드 2조 주석처리 과제
@@ -109,3 +110,5 @@ public class Week01_Ex01 {
                 System.out.printf("%d는 올바르지 않은 점수 입니다", score);
         }
         */
+
+}
