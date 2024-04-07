@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d81d706f-4eb5-4e2b-8100-f59a71e1507c" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d81d706f-4eb5-4e2b-8100-f59a71e1507c" name="Changes" comment="과제 작성">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Back-End-02/JVM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Back-End-02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Back-End-02/homework/CheeseBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Back-End-02/homework/HamBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Back-End-02/homework/ShrimpBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Back-End-02/homework/Week01_Ex01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Back-End-02/homework/Week01_Ex02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Back-End-02/homework/Week02_Ex01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Back-End-02/homework/Week02_Ex02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이태현/homework/Week02_Ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/이태현/homework/Week02_Ex02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +72,7 @@
     "Application.Week02_Ex02.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "이태현",
+    "git-widget-placeholder": "Merging 이태현",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/이태현/Desktop/학교/2024년도 1학기( 4-1 )/멋쟁이사자처럼/Back-End-02",
@@ -94,7 +105,7 @@
       <workItem from="1711962184135" duration="1235000" />
       <workItem from="1712133172686" duration="1529000" />
       <workItem from="1712491140236" duration="321000" />
-      <workItem from="1712491868154" duration="202000" />
+      <workItem from="1712491868154" duration="737000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -136,6 +147,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="과제 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="과제 작성" />
   </component>
 </project>

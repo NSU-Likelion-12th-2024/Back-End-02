@@ -1,7 +1,7 @@
 package homework;
 class HamBurger {
     String name = "햄버거";
-    void cook() {git 
+    void cook() {
         System.out.println(name + "를 만듭니다.");
         System.out.println("> 양상추");
         System.out.println("+ 패티");
