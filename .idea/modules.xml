@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/minji.iml" filepath="$PROJECT_DIR$/.idea/minji.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/minji2/minji2.iml" filepath="$PROJECT_DIR$/minji2/minji2.iml" />
+=======
+>>>>>>> 21ccd6ec7939535fb2df0647795b0a09f10662cf
     </modules>
   </component>
 </project>
