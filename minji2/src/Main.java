@@ -20,7 +20,12 @@
 //        System.out.printf("%d번만에 맞추셨습니다! 정답: %d",count,randomNumber);
 //        }
 //    }
-
+public class Main {
+public static void main(String[] args) {
+Dog dog = new Dog();
+dog.move();
+}
+}
 
 
 
