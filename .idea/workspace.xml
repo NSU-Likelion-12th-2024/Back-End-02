@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d81d706f-4eb5-4e2b-8100-f59a71e1507c" name="Changes" comment="과제 작성">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d81d706f-4eb5-4e2b-8100-f59a71e1507c" name="Changes" comment="예제 작성" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +98,7 @@
       <workItem from="1712491868154" duration="737000" />
       <workItem from="1712492619647" duration="208000" />
       <workItem from="1712492946929" duration="38000" />
-      <workItem from="1712563006096" duration="749000" />
+      <workItem from="1712563006096" duration="805000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -126,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712492665475</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="예제 작성">
+      <option name="closed" value="true" />
+      <created>1712563808449</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712563808449</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +172,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <MESSAGE value="과제 작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="과제 작성" />
+    <MESSAGE value="예제 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="예제 작성" />
   </component>
 </project>
