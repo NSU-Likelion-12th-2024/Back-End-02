@@ -13,24 +13,26 @@ class HamBurger { // HamBurger 클래스 정의
         System.out.println("+패티");
         System.out.println("+피클");
     }
+
+    static class Cheeseburger extends HamBurger { //치즈버거가 햄버거를 상속받음
+        public Cheeseburger() { // HamBurger.Cheeseburger 클래스의 기본 생성자 정의
+            super("치즈버거");//부모 클래스인 햄버거 클래스 생성자 호출, "치즈버거"라는 이름 전달
+        }
+
+        @Override
+        public void cook() {//햄버거에서 상속받은 cook을 오버라이드,cook호출(실행) + 치즈를 출력
+            super.cook();
+            System.out.println("+치즈");
+        }
+    }
 }
 class HamBurger1 extends HamBurger{//햄버거1이 햄버거를 상속받음
     public HamBurger1(){
         super("햄버거");
     }
 }
-class Cheeseburger extends HamBurger { //치즈버거가 햄버거를 상속받음
-    public Cheeseburger() { // Cheeseburger 클래스의 기본 생성자 정의
-        super("치즈버거");//부모 클래스인 햄버거 클래스 생성자 호출, "치즈버거"라는 이름 전달
-    }
 
-    @Override
-    public void cook() {//햄버거에서 상속받은 cook을 오버라이드,cook호출(실행) + 치즈를 출력
-        super.cook();
-        System.out.println("+치즈");
-    }
-}
-    class ShrimpBurger extends HamBurger {
+class ShrimpBurger extends HamBurger {
         public ShrimpBurger() {
             super("새우버거");
         }
@@ -47,7 +49,7 @@ class Cheeseburger extends HamBurger { //치즈버거가 햄버거를 상속받�
         public static void main(String[] args) {
             HamBurger[] hamBugers = new HamBurger[3];
             hamBugers[0] = new HamBurger1();
-            hamBugers[1] = new Cheeseburger();
+            hamBugers[1] = new HamBurger.Cheeseburger();
             hamBugers[2] = new ShrimpBurger();
 
             System.out.println("주문하신 메뉴를 만듭니다.");
