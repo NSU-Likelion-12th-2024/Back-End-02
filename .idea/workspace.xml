@@ -63,6 +63,7 @@
     "Application.Week02_Ex01.executor": "Run",
     "Application.Week02_Ex02.executor": "Run",
     "Application.Week03_Ex01.executor": "Run",
+    "Application.Week04_Ex01.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "이태현",
@@ -105,6 +106,7 @@
       <workItem from="1712564163281" duration="68000" />
       <workItem from="1712566631007" duration="1865000" />
       <workItem from="1712756529862" duration="500000" />
+      <workItem from="1712757365421" duration="1349000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
