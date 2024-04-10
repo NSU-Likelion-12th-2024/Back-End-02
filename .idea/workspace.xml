@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d81d706f-4eb5-4e2b-8100-f59a71e1507c" name="Changes" comment="예제 작성" />
+    <list default="true" id="d81d706f-4eb5-4e2b-8100-f59a71e1507c" name="Changes" comment="예제 작성">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +62,7 @@
     "Application.Week01_Ex02.executor": "Run",
     "Application.Week02_Ex01.executor": "Run",
     "Application.Week02_Ex02.executor": "Run",
+    "Application.Week03_Ex01.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "이태현",
@@ -99,6 +102,9 @@
       <workItem from="1712492619647" duration="208000" />
       <workItem from="1712492946929" duration="38000" />
       <workItem from="1712563006096" duration="805000" />
+      <workItem from="1712564163281" duration="68000" />
+      <workItem from="1712566631007" duration="1865000" />
+      <workItem from="1712756529862" duration="500000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
