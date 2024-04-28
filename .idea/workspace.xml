@@ -39,11 +39,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/이태현/homework/Week01_Ex01.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/이태현/homework/iceCream/IceCreamManager.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/이태현/review/object/Generic_Ex.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/이태현/review/object/MapEx02.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -56,28 +60,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Week01_Ex01.executor": "Run",
-    "Application.Week01_Ex02.executor": "Run",
-    "Application.Week02_Ex01.executor": "Run",
-    "Application.Week02_Ex02.executor": "Run",
-    "Application.Week03_Ex01.executor": "Run",
-    "Application.Week04_Ex01.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "이태현",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/이태현/Desktop/학교/2024년도 1학기( 4-1 )/멋쟁이사자처럼/Practice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.IceCreamMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Week01_Ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Week01_Ex02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Week02_Ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Week02_Ex02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Week03_Ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Week04_Ex01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;이태현&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/이태현/Desktop/학교/2024년도 1학기( 4-1 )/멋쟁이사자처럼/Practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -107,6 +112,10 @@
       <workItem from="1712566631007" duration="1865000" />
       <workItem from="1712756529862" duration="500000" />
       <workItem from="1712757365421" duration="1349000" />
+      <workItem from="1712758781692" duration="3579000" />
+      <workItem from="1713148489235" duration="5877000" />
+      <workItem from="1713315712613" duration="5000" />
+      <workItem from="1714289829548" duration="3504000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -182,5 +191,15 @@
     <MESSAGE value="과제 작성" />
     <MESSAGE value="예제 작성" />
     <option name="LAST_COMMIT_MESSAGE" value="예제 작성" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
